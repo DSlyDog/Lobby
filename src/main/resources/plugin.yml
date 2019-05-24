@@ -1,0 +1,5 @@
+name: Lobby
+version: ${project.version}
+main: net.whispwriting.lobby.Lobby
+description: A lobby plugin
+author: WhispTheFox
